@@ -13,7 +13,7 @@
 ![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=Xcode&logoColor=00599C)&nbsp;
 ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;\
 ![Shell script](https://img.shields.io/badge/-Shell%20script-333333?style=flat&logo=shell)&nbsp;

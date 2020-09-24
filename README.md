@@ -20,8 +20,8 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)&nbsp;
 

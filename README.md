@@ -9,12 +9,11 @@
 ✉️ &nbsp;You can start a conversation by good old email: mail@cassiodiego.com.
 
 ### 🛠 &nbsp;Tech Stack
-![Objective-C](https://img.shields.io/badge/-ObjectiveC-333333?style=flat&logo=ObjectiveC)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift)&nbsp;
 ![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=Xcode&logoColor=00599C)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)&nbsp;
@@ -24,5 +23,5 @@
 <p>
 <a href="https://twitter.com/cassiodiego"><img src="https://img.shields.io/badge/-@cassiodiego-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://medium.com/cassiodiego"><img src="https://img.shields.io/badge/-@cassiodiego-000000?style=flat&logo=Medium&logoColor=white"/></a>
-<a href="https://linkedin.com/in/cassiodiego"><img src="https://img.shields.io/badge/-cassiodiego-0077B5?style=flat-rounded&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/cassiodiego"><img src="https://img.shields.io/badge/-/cassiodiego-0077B5?style=flat-rounded&logo=Linkedin&logoColor=white"/></a>
 </p>

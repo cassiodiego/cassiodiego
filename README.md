@@ -16,10 +16,10 @@
 ![Shell script](https://img.shields.io/badge/-Shell%20script-333333?style=flat&logo=shell)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;\
-![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)&nbsp;

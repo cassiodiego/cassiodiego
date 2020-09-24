@@ -11,7 +11,7 @@
 ### 🛠 &nbsp;Tech Stack
 ![Objective-C](https://img.shields.io/badge/-ObjectiveC-333333?style=flat&logo=ObjectiveC)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift)&nbsp;
-![Xcode](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=Xcode&logoColor=00599C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;

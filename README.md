@@ -1,7 +1,5 @@
 ## 👋 &nbsp;Hello! I'm Cassio Diego
 
-<img align="right" width='200px' src="https://github.com/cassiodiego/cassiodiego/blob/master/assets/cassiodiego.png?raw=true" alt="Cassio Diego">
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I'm a computer scientist acting as a senior software engineer at the largest bank in Brazil.\

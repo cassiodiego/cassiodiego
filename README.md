@@ -1,6 +1,6 @@
 ## 👋 &nbsp;Hello! I'm Cassio Diego
 
-<img align="right" width='200px' src="https://github.com/cassiodiego/cassiodiego/blob/master/assets/avatar-cassiodiego.png?raw=true" alt="Avatar Cassio Diego">
+<img align="right" width='200px' src="https://github.com/cassiodiego/cassiodiego/blob/master/assets/cassiodiego.png?raw=true" alt="Cassio Diego">
 
 ### 👨🏻‍💻 &nbsp;About Me
 

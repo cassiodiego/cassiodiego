@@ -1,5 +1,7 @@
 ## 👋 &nbsp;Hello! I'm Cassio Diego
 
+<img align="right" width='200px' src="https://github.com/cassiodiego/cassiodiego/blob/master/assets/avatar-cassiodiego.png?raw=true" alt="Avatar Cassio Diego">
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I'm a computer scientist acting as a senior software engineer at the largest bank in Brazil.\
@@ -23,7 +25,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-K8s-333333?style=flat&logo=Kubernetes)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p>

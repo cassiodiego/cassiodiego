@@ -29,5 +29,4 @@
 <p>
 <a href="https://twitter.com/cassiodiego"><img src="https://img.shields.io/badge/-@cassiodiego-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://medium.com/cassiodiego"><img src="https://img.shields.io/badge/-@cassiodiego-000000?style=flat&logo=Medium&logoColor=white"/></a>
-<a href="https://linkedin.com/in/cassiodiego"><img src="https://img.shields.io/badge/-/cassiodiego-0077B5?style=flat-rounded&logo=Linkedin&logoColor=white"/></a>
 </p>

@@ -8,23 +8,6 @@
 🚀 Also writing scientific papers, tech posts on Medium and maintaning an iOS game.\
 ✉️ &nbsp;You can start a conversation by good old email: mail@cassiodiego.com.
 
-### 🛠 &nbsp;Tech Stack
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Xcode-333333?style=flat&logo=Xcode&logoColor=00599C"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Sketch-333333?style=flat&logo=Sketch&logoColor=F7B500"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Shell%20script-333333?style=flat&logo=shell"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"/></a><br />
-  <a href="#"><img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-K8s-333333?style=flat&logo=Kubernetes"/></a>
-</p>
-
 ### 🤝🏻 &nbsp;Connect with Me
 <p>
 <a href="https://twitter.com/cassiodiego"><img src="https://img.shields.io/badge/-@cassiodiego-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>

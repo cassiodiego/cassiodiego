@@ -11,5 +11,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 <p>
 <a href="https://twitter.com/cassiodiego"><img src="https://img.shields.io/badge/-@cassiodiego-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://medium.com/@cassiodiego"><img src="https://img.shields.io/badge/-@cassiodiego-000000?style=flat&logo=Medium&logoColor=white"/></a>
+<a href="https://medium.com/@cassiodiego"><img src="https://img.shields.io/badge/-@cassiodiego-FFFFFF?style=flat&logo=Medium&logoColor=black"/></a>
 </p>

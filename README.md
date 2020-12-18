@@ -10,21 +10,21 @@
 
 ### 🛠 &nbsp;Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift"/>
-  <img src="https://img.shields.io/badge/-Xcode-333333?style=flat&logo=Xcode&logoColor=00599C"/>
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
-  <img src="https://img.shields.io/badge/-Shell%20script-333333?style=flat&logo=shell"/>
-  <img src="https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby"/>
-  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"/>
-  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"/><br />
-  <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C"/>
-  <img src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown"/>
-  <img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase"/>
-  <img src="https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws"/>
-  <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker"/>
-  <img src="https://img.shields.io/badge/-K8s-333333?style=flat&logo=Kubernetes"/>
+  <a href="#"><img src="https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Xcode-333333?style=flat&logo=Xcode&logoColor=00599C"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Shell%20script-333333?style=flat&logo=shell"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"/></a><br />
+  <a href="#"><img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-K8s-333333?style=flat&logo=Kubernetes"/></a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me

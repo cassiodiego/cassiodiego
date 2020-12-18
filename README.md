@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm a computer scientist acting as a senior software engineer at the largest bank in Brazil.\
+🎓 &nbsp;I'm a computer scientist acting as a senior software engineer at Itaú Unibanco.\
 🖖 32 years old, 14 years in information technology industry.\
 🎮 &nbsp;Hobbies: books, movies, TV series, chess, video games and eletric guitar.\
 🚀 Also writing scientific papers, tech posts and maintaning iOS apps.\

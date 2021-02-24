@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I'm a computer scientist acting as a senior software engineer.\
-🖖 32 years old, 15 years in information technology industry.\
+🖖 33 years old, 15 years in information technology industry.\
 🎮 &nbsp;Hobbies: books, movies, TV series, chess, video games and eletric guitar.\
 🚀 Also writing scientific papers, tech posts and maintaning iOS apps.\
 ✉️ &nbsp;You can start a conversation by good old email: mail@cassiodiego.com.
